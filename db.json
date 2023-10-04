@@ -1,5 +1,27 @@
 
   {
+  "users":
+    [
+      {
+        "name":"Ilia",
+        "lastname":"Turovchik",
+        "nickname":"KakoiToVas9",
+        "age":28
+      },
+      {
+        "name":"Ilia",
+        "lastname":"Sidaray",
+        "nickname":"m4whale",
+        "age":28
+      },
+      {
+        "name":"Maksim",
+        "lastname":"Ded",
+        "nickname":"bigpencel",
+        "age":74
+      }
+    ],
+  
   "posts": [
     {
       "id": 1,
