@@ -3,18 +3,21 @@
   "users":
     [
       {
+        "id":1,
         "name":"Ilia",
         "lastname":"Turovchik",
         "nickname":"KakoiToVas9",
         "age":28
       },
       {
+        "id":2,
         "name":"Ilia",
         "lastname":"Sidaray",
         "nickname":"m4whale",
         "age":28
       },
       {
+        "id":3,
         "name":"Maksim",
         "lastname":"Ded",
         "nickname":"bigpencel",
